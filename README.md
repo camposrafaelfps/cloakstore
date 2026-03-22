@@ -5,7 +5,7 @@
 ---
 
 ## Sobre o projeto
-Cloak Store é uma **loja online de camisas de time**, criada para oferecer **produtos de qualidade** e uma experiência de compra **moderna e intuitiva**. O site é responsivo, fácil de navegar e possui integração completa com métodos de pagamento. Este projeto é um excelente exemplo de **desenvolvimento web com WordPress e e-commerce funcional**, ideal para portfólio profissional.
+Cloak Store é uma **loja online de camisas de time**, criada para oferecer **produtos de qualidade** e uma experiência de compra **moderna e intuitiva**. O site é responsivo, fácil de navegar e possui integração completa com métodos de pagamento. Este projeto é um excelente exemplo de **desenvolvimento web com WordPress e e-commerce funcional**, seguindo fielmente a identidade visual do cliente, ideal para portfólio profissional.
 
 ---
 
