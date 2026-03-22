@@ -1,5 +1,7 @@
 # Cloak Store 🛒
 
+![Cloak Store Banner](https://github.com/camposrafaelfps/cloakstore/blob/main/img-capa-cloak.png)
+
 🌐 [Acesse o site](https://cloakstore.com.br/)
 
 ---
